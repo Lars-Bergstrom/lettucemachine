@@ -1,0 +1,31 @@
+{
+  "name": "node-red-project",
+  "description": "A Node-RED Project",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-red-contrib-bigtimer": "^2.0.3",
+    "node-red-contrib-browser-utils": "0.0.7",
+    "node-red-contrib-counter": "~0.1.5",
+    "node-red-contrib-cpu": "0.0.4",
+    "node-red-contrib-dht-sensor": "~1.0.3",
+    "node-red-contrib-ds18b20": "0.0.3",
+    "node-red-contrib-ibm-watson-iot": "^0.2.8",
+    "node-red-contrib-node-webcam": "0.0.3",
+    "node-red-contrib-os": "~0.1.7",
+    "node-red-contrib-play-audio": "^2.3.2",
+    "node-red-contrib-power-monitor": "~0.1.2",
+    "node-red-contrib-rpi-imagecapture": "0.0.2",
+    "node-red-contrib-simpletime": "~2.3.1",
+    "node-red-contrib-telegrambot": "~4.4.0",
+    "node-red-contrib-webcam": "0.0.1",
+    "node-red-dashboard": "~2.11.0",
+    "node-red-node-arduino": "0.0.18",
+    "node-red-node-base64": "~0.1.3",
+    "node-red-node-pi-gpiod": "0.0.10",
+    "node-red-node-ping": "0.0.15",
+    "node-red-node-pisrf": "~0.1.4",
+    "node-red-node-random": "^0.1.2",
+    "node-red-node-serialport": "^0.6.8",
+    "node-red-node-smooth": "^0.1.0"
+  }
+}
